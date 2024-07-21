@@ -1,0 +1,198 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.cal-container{
+    background-color: antiquewhite;
+    width: 300px;
+    border-radius: 20px;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    height: 90vh;
+}
+
+.operation{
+    padding: 10px;
+}
+.hed{
+    margin-left: 0%;
+}
+#result{
+    margin-left: 20%;
+}
+#num1{
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    
+}
+#num2{
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    
+}
+#results{
+    width: 400px;
+    height: 30px;
+    border-radius: 2px;
+    border: none;
+    
+}
+#resultButtonn{
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 100%;
+    margin-left: 250px;
+
+    
+}
+
+#num11{
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    
+}
+#num22{
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    
+}
+#resultsss{
+    width: 200px;
+    height: 30px;
+    border-radius: 2px;
+    border: none;
+    
+}
+#resultButtonnn{
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 100%;
+    margin-left: 250px;
+
+    
+}
+
+#num111{
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    
+}
+#num222{
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    
+}
+#resultsss{
+    width: 200px;
+    height: 30px;
+    border-radius: 2px;
+    border: none;
+    
+}
+#resultButtonnnn{
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 100%;
+    margin-left: 250px;
+
+    
+}
+
+
+#num11111{
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    
+}
+#num22222{
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    
+}
+#resultsss{
+    width: 200px;
+    height: 30px;
+    border-radius: 2px;
+    border: none;
+    
+}
+#resultButtonnnnn{
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 100%;
+    margin-left: 250px;
+
+    
+}
+
+
+#num11111111{
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    
+}
+#num2222222{
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    
+}
+#resultsssss{
+    width: 200px;
+    height: 30px;
+    border-radius: 2px;
+    border: none;
+    
+}
+#resultButton{
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 100%;
+    margin-left: 250px;
+
+}
